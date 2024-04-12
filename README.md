@@ -1,4 +1,4 @@
-# pytorch_embeddings
+# bug bucket
 
 This repository is solely for bug-reporting purposes. 
 
